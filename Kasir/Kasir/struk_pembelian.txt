@@ -1,0 +1,5 @@
+Struk Pembelian Pulsa
+Nomor Handphone: 081292269226
+Pilihan Pulsa: Pulsa 20.000
+Jumlah Pulsa: 20
+Total Harga: Rp 400000

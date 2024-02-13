@@ -1,0 +1,6 @@
+Struk Pembelian Pulsa
+Nama Konter: KochakCell
+Nomor Handphone: 0821457686974
+Pilihan Pulsa: Pulsa 20.000
+Jumlah Pulsa: 100
+Total Harga: Rp 2000000
